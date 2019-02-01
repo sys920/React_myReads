@@ -1,6 +1,6 @@
 # MyReads 
-- The main page shows 3 shelves for books. Each book is shown on the correct shelf, along with its title and all of its authors.
-- using API.js to get a books from your search  
+-The Book shelf that you could collect books from external BookAPI and keeep it in the each shlef whatever you collect  
+
 
 # code
 
