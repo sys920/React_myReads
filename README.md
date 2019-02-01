@@ -1,6 +1,6 @@
 # MyReads 
 -The Book shelf that you could collect books from external BookAPI and keeep it in the each shlef whatever you collect  
-- This repository is the starter code for all Udacity students.
+-This repository is the starter code for all Udacity students.
 
 
 # code
