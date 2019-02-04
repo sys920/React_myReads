@@ -88,7 +88,7 @@ class App extends React.Component {
               <div className="search-books-bar">
               <Link to='/'><button className="close-search" >Close</button></Link>
                 <div className="search-books-input-wrapper">
-                  <input type="text"  onChange={this.searchInput} placeholder="Search by title or author"/>
+                  <input type="text"  value={this.state.searchInput} onChange={this.searchInput} placeholder="Search by title or author"/>
                 </div>
               </div>
               <div className="search-books-results">
